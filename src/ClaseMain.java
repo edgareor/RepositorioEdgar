@@ -10,6 +10,12 @@ public class ClaseMain {
 		System.out.println("Version 3");
 		
 		System.out.println("Version 4");
+		
+		System.out.println("Version 5");
+		
+		System.out.println("Version 6");
+		
+		System.out.println("Version 7");
 
 	}
 
